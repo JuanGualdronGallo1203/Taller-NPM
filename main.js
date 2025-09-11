@@ -4,6 +4,7 @@ const { showMenu } = require('./functions/menu');
 const { closeRL } = require('./functions/utils');
 
 
+
 // Manejar cierre de la aplicacion
 process.on('SIGINT', () => {
     console.log(chalk.blue('\n¡Hasta pronto!'));

@@ -67,9 +67,8 @@ taller-npm/
 └── 📖 README.md               # Documentación
 ```
 # 🎥 Video
-https://img.shields.io/badge/%F0%9F%8E%A5-Ver_Demo-ff0000.svg
-
-- Duración: 8 minutos
+https://drive.google.com/file/d/1KMbC_cax2rIVl4aBUeW0eGl2E365_KFb/view?usp=sharing
+- Duración: 4:15 minutos
 Contenido:
 
 📌 Explicación del problema de seguridad
